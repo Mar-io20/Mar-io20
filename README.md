@@ -1,9 +1,10 @@
 ### Oii, eu sou o Mario Gabriel👋
 
-- 🌱  Eu estou aprendendo Front-end
-- 👯 Estou colaborando com um amigo em uma 'simples' pagina de vendas
-- 🤔 Procuro ajudar pessoas que estão no inicio da carreira assim como eu
+- 🌱 Eu estou estudando React, em paralelo com estudos de AWS e SPA.
+- 👯 Estou trabalhando alguns projetos pessoais 
+- 🤔 Procuro ajudar pessoas que estão no inicio da carreira assim como eu então entre em contato
 - 📫 Contate me: mario.contate.me@gmail.com
+- 📫 Contate me pelo Discord: Mar_io20#6449
 
 <div>
     <a href="https://github.com/Mar-io20">
