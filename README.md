@@ -2,7 +2,7 @@
 
 - 🌱 Eu estou estudando React, em paralelo com estudos de AWS e SPA.
 - 👯 Estou trabalhando alguns projetos pessoais 
-- 🤔 Procuro ajudar pessoas que estão no inicio da carreira assim como eu então entre em contato
+- 🤔 Procuro ajudar pessoas no inicio da carreira assim como eu
 - 📫 Contate me: mario.contate.me@gmail.com
 - 📫 Contate me pelo Discord: Mar_io20#6449
 
