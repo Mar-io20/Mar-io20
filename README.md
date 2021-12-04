@@ -40,19 +40,21 @@ Estou estudando:
 Contate-me:
 
 <p>
-    <a src="#">
+    <a src="https://discord.gg/fjeU9hVjsk">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <a src="#">
+    <a src="https://www.linkedin.com/in/mario-gabriel/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
-Me veja desenvolver
+Acompanhe o meu desenvolvimento 
 ====
 
-<a src="#">
+<a src="https://www.twitch.tv/eu_sou_o_mario">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
 
-![Snake animation](https://github.com/Mar-io20/Mar-io20/blob/output/github-contribution-grid-snake.svg)
+<!-- Uma cobrinha que come os commits, fiquei com do de remover -->
+<!-- 
+![Snake animation](https://github.com/Mar-io20/Mar-io20/blob/output/github-contribution-grid-snake.svg) -->
