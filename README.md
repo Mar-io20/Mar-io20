@@ -1,11 +1,8 @@
 ### Oii, eu sou o Mario Gabriel👋
 
 
-- 🌱 Eu estou estudando React, em paralelo com estudos de AWS e SPA.
-- 👯 Estou trabalhando alguns projetos pessoais 
-- 🤔 Procuro ajudar pessoas no inicio da carreira assim como eu
-- 📫 Contate me: mario.contate.me@gmail.com
-- 📫 Contate me pelo Discord: Mar_io20#6449
+• 🦾 Meus estudo estão 100% focados para conseguir uma vaga Front-end
+• 🐱‍🏍 Siga o meu perfil nas redes sociais pra não perder nem uma novidade
 
 #
 <br/>
