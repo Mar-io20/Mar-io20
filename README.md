@@ -51,8 +51,8 @@ Contate-me:
 Acompanhe o meu desenvolvimento 
 ====
 
-<a src="https://www.twitch.tv/eu_sou_o_mario">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+<a src="https://www.twitch.tv/eu_sou_o_mario"> Twitch
+    <!-- <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> -->
 </a>
 
 <!-- Uma cobrinha que come os commits, fiquei com do de remover -->
