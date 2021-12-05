@@ -39,21 +39,20 @@ Estou estudando:
 
 Contate-me:
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-gabriel/)](https://www.linkedin.com/in/mario-gabriel/)
+
 <p>
     <a src="https://discord.gg/fjeU9hVjsk">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a src="https://www.linkedin.com/in/mario-gabriel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
 Acompanhe o meu desenvolvimento 
 ====
 
-<a src="https://www.twitch.tv/eu_sou_o_mario"> Twitch
+<link src="https://www.twitch.tv/eu_sou_o_mario"> Twitch </link>
     <!-- <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/> -->
-</a>
+
 
 <!-- Uma cobrinha que come os commits, fiquei com do de remover -->
 <!-- 
