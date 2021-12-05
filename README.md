@@ -1,5 +1,5 @@
 <div class="Titulo">
-# Oii, eu sou o Mario Gabriel👋
+###Oii, eu sou o Mario Gabriel👋
 
 
 - 🌱 Eu estou estudando React, em paralelo com estudos de AWS e SPA.
