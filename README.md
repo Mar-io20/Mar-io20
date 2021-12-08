@@ -26,10 +26,10 @@
 ### Sobre o meu lado artistico de UI/UX:
 
 <p>
-    <a href="https://www.figma.com/file/aWnnAElLMA3uVYz9sqis8h/Layout-calendario-dekatrian?node-id=0%3A1">
+    <a href="https://www.figma.com/file/aWnnAElLMA3uVYz9sqis8h/Layout-calendario-dekatrian?node-id=0%3A1" target="_blank">
     <img src="https://img.shields.io/badge/figma-483D8B?style=for-the-badge&logo=figma&logoColor=white"/>
     </a>
-    <a href="https://www.behance.net/mario-gabriel">
+    <a href="https://www.behance.net/mario-gabriel" target="_blank">
     <img src="https://img.shields.io/badge/behance-0000CD?style=for-the-badge&logo=behance&logoColor=white"/>
     <a/>
 </p>
@@ -50,14 +50,14 @@
 ### Contate-me:
 <p>
     <a href="https://www.linkedin.com/in/mario-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send?phone=5563984218043"target="_bank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+    <a href="https://api.whatsapp.com/send?phone=5563984218043" target="_bank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
       <a href="https://discord.gg/fjeU9hVjsk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </p>
 <br/>
 
 ### Acompanhe o meu desenvolvimento:
 <p>
-    <a href="https://www.twitch.tv/eu_sou_o_mario"target="_bank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+    <a href="https://www.twitch.tv/eu_sou_o_mario" target="_bank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </p>
 
 <!-- <img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB"/>
