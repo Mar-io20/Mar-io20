@@ -1,7 +1,7 @@
 ### Oii, eu sou o Mario Gabriel👋
 
 
-- 🦾 Meus estudo estão 100% focados para conquista a vaga Front-end
+- 🦾 Meus estudo estão focados para Front-end
 - 🐱‍🏍 Siga o meu perfil nas redes sociais pra não perder nem uma novidade
 
 #
