@@ -60,6 +60,9 @@
     <a href="https://www.twitch.tv/eu_sou_o_mario"target="_bank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </p>
 
+<!-- <img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB"/>
+ -->
+
 
 <!-- Uma cobrinha que come os commits, fiquei com do de remover -->
 <!-- 
