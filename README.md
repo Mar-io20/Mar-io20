@@ -23,12 +23,15 @@
 </p>
 <br/>
 
-### Sobre o meu lado artistico de UI/UX 
+### Sobre o meu lado artistico de UI/UX:
 
 <p>
-    <a href="https://www.behance.net/mario-gabriel" target="_blank">
+    <a href="https://www.figma.com/file/aWnnAElLMA3uVYz9sqis8h/Layout-calendario-dekatrian?node-id=0%3A1">
     <img src="https://img.shields.io/badge/figma-483D8B?style=for-the-badge&logo=figma&logoColor=white"/>
     </a>
+    <a href="https://www.behance.net/mario-gabriel">
+    <img src="https://img.shields.io/badge/behance-0000CD?style=for-the-badge&logo=behance&logoColor=white"/>
+    <a/>
 </p>
 
 ### Estou estudando:
