@@ -65,5 +65,5 @@
 
 
 <!-- Uma cobrinha que come os commits, fiquei com do de remover -->
-<!-- 
-![Snake animation](https://github.com/Mar-io20/Mar-io20/blob/output/github-contribution-grid-snake.svg) -->
+
+![Snake animation](https://github.com/Mar-io20/Mar-io20/blob/output/github-contribution-grid-snake.svg)
