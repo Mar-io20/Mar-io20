@@ -2,7 +2,10 @@
 
 
 - 🦾 Meus estudo estão focados para Front-end
+- 🧐 Aluno da Alura
+- Parafraseando Richard Feynman: "Você so aprende quando consegue ensinar outros"
 - 🐱‍🏍 Siga o meu perfil nas redes sociais pra não perder nem uma novidade
+
 
 #
 <br/>
