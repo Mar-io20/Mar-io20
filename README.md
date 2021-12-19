@@ -69,8 +69,9 @@
 </p>
 <br/>
 
-### Acompanhe o meu desenvolvimento:
+### Curiosidades sobre mim:
 <p>
+    Como hobby, eu tenho um canal na twitch onde eu compartilho o que estou estudando, projetos pessoais e sujestões da comunidade. Se você quiser saber um pouco mais sobre os meus hobbys, você pode acessar <a href="https://www.twitch.tv/eu_sou_o_mario"> twitch </a> ou <a href="https://discord.gg/fjeU9hVjsk">Discord</a>
   <div align="center">
     <a href="https://www.twitch.tv/eu_sou_o_mario" target="_bank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   </div>
