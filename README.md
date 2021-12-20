@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/72115747/146800128-28833b80-da45-4768-8213-61984328a51d.gif"/>
+</div>
+<div align="center">
     
 # Oii, eu sou o Mario Gabriel👋    
 </div>
