@@ -14,6 +14,11 @@
 - 🐱‍🏍 Siga o meu perfil nas redes sociais pra não perder nem uma novidade
 
 #
+<p align="center">
+  <a href="https://github.com/Mar-io20/">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mar-io20&theme=blueberry&hide_border=true&background=355C7D00&stroke=8B008B&dates=3CB371" />
+  </a>
+</p>
 <br/>
    <div align="center">
     <a href="https://github.com/Mar-io20">
@@ -21,8 +26,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mar-io20&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
    </div>
-<br/>    
+<br/>
 
+#
 ### Atualmente trabalhando com:
 <p>
   <div align="center">
