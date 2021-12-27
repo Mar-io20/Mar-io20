@@ -91,6 +91,6 @@
 
 <!-- Uma cobrinha que come os commits, fiquei com do de remover -->
 
-![Snake animation](https://github.com/Mar-io20/Mar-io20/blob/output/github-contribution-grid-snake.svg) align="center"
+![Snake animation](https://github.com/Mar-io20/Mar-io20/blob/output/github-contribution-grid-snake.svg) 
 
 <!-- https://cursos.alura.com.br/retro/share/qOROFo2nd-CgmtEDN2xQRk6hgo4Jpp0GzISzPnWOEq4= -->
