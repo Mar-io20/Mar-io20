@@ -90,7 +90,7 @@
 
 
 <!-- Uma cobrinha que come os commits, fiquei com medo de remover -->
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/Mar-io20/Mar-io20/blob/output/github-contribution-grid-snake.svg">    
-</div>
+</div> -->
 <!-- https://cursos.alura.com.br/retro/share/qOROFo2nd-CgmtEDN2xQRk6hgo4Jpp0GzISzPnWOEq4= -->
