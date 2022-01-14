@@ -8,9 +8,9 @@
 # Oii, eu sou o Mario Gabriel👋    
 </div>
 
-- 🦾 Meus estudo estão focados no desenvolvimento de aplicações web
-- 🧐 Sou Aluno da Alura
+- 🦾 Programador front-end
 - 📚 Parafraseando Richard Feynman: "Você so aprende quando consegue ensinar outros"
+- 🧐 Sou Aluno da Alura
 - 🐱‍🏍 Siga o meu perfil nas redes sociais pra não perder nem uma novidade
 
 #
