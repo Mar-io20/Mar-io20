@@ -3,14 +3,17 @@
   <img src="https://user-images.githubusercontent.com/72115747/146800128-28833b80-da45-4768-8213-61984328a51d.gif"/>
   </a>
 </div> -->
+
 <div align="center">
-    
-# Oii, eu sou o Mario Gabriel👋    
+
+  # Oii, eu sou o Mario Gabriel👋    
 </div>
 
-- 🦾 Programador front-end
-- 📚 Parafraseando Richard Feynman: "Você so aprende quando consegue ensinar outros"
-- 🧐 Sou Aluno da Alura
+
+- 🦾 Programador Front-end
+- 🧐 Estudando Back-end
+- 🤓 Sou Aluno da Alura
+- 📚 Parafraseando Richard Feynman: "Você so aprende quando consegue ensinar outros". Se precisar de ajuda, é so me chamar.
 - 🐱‍🏍 Siga o meu perfil nas redes sociais pra não perder nem uma novidade
 
 #
