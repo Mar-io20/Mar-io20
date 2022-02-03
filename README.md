@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-🈹 Linguagens: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js  </strong>
+🈹 languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js  </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Vs Code | Figma | Firebase | Behance | Notion | Discord </strong>
+  💼 Tools: <strong>Vs Code | Figma | Firebase | Behance | Notion | Discord </strong>
 </p>
 
 <p align="left">
