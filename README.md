@@ -6,15 +6,14 @@
 
 <div align="center">
 
-  # Oii, eu sou o Mario Gabriel👋    
+  # Hi, I'm Mario Gabriel👋    
 </div>
 
 
-- 🦾 Programador Front-end
-- 🧐 Estudando Back-end
-- 🤓 Sou Aluno da Alura
-- 📚 Parafraseando Richard Feynman: "Você so aprende quando consegue ensinar outros". Se precisar de ajuda, é so me chamar.
-- 🐱‍🏍 Siga o meu perfil nas redes sociais pra não perder nem uma novidade
+- 🦾 Front-end developer
+- 🧐 Studying Backend
+- 📚 To paraphrase Richard Feynman: "You only learn when you can teach others". If you need help, just call me.
+- 🐱‍🏍 Follow my profile on social networks so you don't miss any news
 
 #
 <p align="center">
@@ -24,7 +23,7 @@
 </p>
 
 #
-### Atualmente trabalhando com:
+### currently working with:
 <p>
   <div align="center">
     <a href="https://github.com/Mar-io20">
@@ -37,7 +36,7 @@
 </p>
 <br/>
 
-### Sobre o meu lado artistico de UI/UX:
+### On my artistic side of UI/UX:
 
 <p>
   <div align="center">
@@ -50,7 +49,7 @@
   </div>
 </p>
 
-### Estou estudando:
+### I am studying:
 <p>
   <div align="center">
     <a href="https://github.com/Mar-io20">
@@ -65,7 +64,7 @@
 <br/>
 
 
-### Contate-me:
+### contact me: I use these tools
 <p>
   <div align="center">
     <a href="https://www.linkedin.com/in/mario-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -75,17 +74,10 @@
 </p>
 <br/>
 
-### Curiosidades sobre mim:
+<!-- ### Curiosidades sobre mim:
 <p>
     Como hobby, eu tenho um canal na twitch onde eu compartilho o que estou estudando, projetos pessoais e sujestões da comunidade. Se você quiser saber um pouco mais sobre os meus hobbys, você pode acessar <a href="https://www.twitch.tv/eu_sou_o_mario"> twitch </a> ou <a href="https://discord.gg/fjeU9hVjsk">Discord</a>
   <div align="center">
     <a href="https://www.twitch.tv/eu_sou_o_mario" target="_bank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   </div>
-</p>
-
-
-<!-- Uma cobrinha que come os commits, fiquei com medo de remover -->
-<!-- <div align="center">
-<img src="https://github.com/Mar-io20/Mar-io20/blob/output/github-contribution-grid-snake.svg">    
-</div> -->
-<!-- https://cursos.alura.com.br/retro/share/qOROFo2nd-CgmtEDN2xQRk6hgo4Jpp0GzISzPnWOEq4= -->
+</p> -->
