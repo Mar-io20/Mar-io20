@@ -3,7 +3,7 @@
 
 <p align="left"> 
   I'm Mario Gabriel. <strong>Full-stack developer</strong> | React Native | JavaScript | Firebase .<br>
-  <p>My main project is to become a Full-Stack programmer. </p>
+  <p>My main project is to become a Full-Stack Mobile programmer. </p>
   For this, he develops some personal projects, using different languages and tools:
   
 </p>
