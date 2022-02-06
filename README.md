@@ -2,14 +2,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mario">
 
 <p align="left"> 
-  I'm Mario Gabriel. <strong>Front-end developer</strong> | React Native | JavaScript .<br>
+  I'm Mario Gabriel. <strong>Full-stack developer</strong> | React Native | JavaScript | Firebase .<br>
   <p>My main project is to become a Full-Stack programmer. </p>
   For this, he develops some personal projects, using different languages and tools:
   
 </p>
 
 <p align="left">
-🈹 languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js  </strong>
+🈹 languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js | Firebase  </strong>
 </p>
 
 <p align="left">
