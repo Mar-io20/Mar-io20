@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Vs Code | Figma | Behance | Notion | Discord | Slack | Excel | CodePen  </strong>
+  💼 Tools: <strong>Vs Code | Figma | Behance | Notion | Vercel | Discord | Slack | Excel | CodePen  </strong>
 </p>
 
 <p align="left">
