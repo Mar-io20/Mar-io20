@@ -1,5 +1,5 @@
 
-<img src="https://static.wikia.nocookie.net/406f8456-0322-46a2-9292-9cf9ee8c111f/scale-to-width/370" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mario">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mario">
 
 <p align="left"> 
   I'm Mario Gabriel. <strong>Full-stack developer</strong> | React Native | JavaScript | Firebase .<br>
