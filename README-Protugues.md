@@ -26,4 +26,4 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
 
-[![IN-USA](https://img.shields.io/badge/INGLÊS%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=3498db)](https://github.com/Mar-io20/Mar-io20/blob/main/README.md)
+[![IN-USA](https://img.shields.io/badge/INGLÊS%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=3498db)](https://github.com/Mar-io20)
