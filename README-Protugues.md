@@ -1,10 +1,8 @@
 <img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mario">
 
 <p align="left"> 
-  I'm Mario Gabriel. <strong>Full-stack developer</strong> | React Native | JavaScript | Firebase .<br>
-  <p>My main project is to become a Full-Stack Mobile programmer. </p>
-  For this, he develops some personal projects, using different languages and tools:
-  
+  Meu nome é Mário Gabriel. Sou <strong>Full-stack developer mobile</strong>. Trabalho atualmente com: React Native | JavaScript | Firebase .<br>
+  Já desenvolve alguns projetos pessoais, utilizando diferentes linguagens e ferramentas como:
 </p>
 
 <p align="left">
@@ -12,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Vs Code | Figma | Behance | Notion | Vercel | Discord | Slack | Excel | CodePen  </strong>
+  💼 Tools: <strong>Vs Code | Figma | Behance | Notion | Vercel | Discord | Slack | Excel | CodePen | Excalidraw </strong>
 </p>
 
 <p align="left">
@@ -28,4 +26,4 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
 
-[![IN-USA](https://img.shields.io/badge/INGLÊS%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/iuricode/README-template/tree/main/README-profile)
+[![IN-USA](https://img.shields.io/badge/INGLÊS%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=3498db)](https://github.com/Mar-io20/Mar-io20/blob/main/README.md)
