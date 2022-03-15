@@ -3,17 +3,16 @@
 
 <p align="left"> 
   I'm Mario Gabriel. <strong>Full-stack developer</strong> | React Native | JavaScript | Firebase .<br>
-  <p>My main project is to become a Full-Stack Mobile programmer. </p>
-  For this, he develops some personal projects, using different languages and tools:
+ He develops some personal projects, using different languages and tools:
   
 </p>
 
 <p align="left">
-🈹 languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js | Firebase  </strong>
+🈹 languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js | Firebase </strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Vs Code | Figma | Behance | Notion | Vercel | Discord | Slack | Excel | CodePen  </strong>
+  💼 Tools: <strong>Vs Code | Figma | Behance | Notion | Vercel | Discord | Slack | Excel | CodePen | Excalidraw </strong>
 </p>
 
 <p align="left">
