@@ -28,6 +28,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>  
 
-[![PT-BR](https://img.shields.io/badge/PORTUGUES%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=3498db)](https://github.com/Mar-io20/Mar-io20/blob/main/README-Protugues.md)
+[![PT-BR](https://img.shields.io/badge/PORTUGUES%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=3498db)](https://github.com/Mar-io20)
 
 
