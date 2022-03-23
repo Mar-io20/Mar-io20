@@ -7,8 +7,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Mar-io20)  
 
-
-
-<!-- https://github.com/brunomotadev -->
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
