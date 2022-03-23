@@ -1,5 +1,8 @@
 
-<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mario">
+<img src="./profile-3d-contrib/profile-night-rainbow1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mario">
+
+<!-- ![](https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif) -->
+
 
 <p align="left"> 
   I'm Mario Gabriel. <strong>Full-stack developer</strong> | React Native | JavaScript | Firebase .<br>
