@@ -7,7 +7,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Mar-io20)  
 
-![](./profile-3d-contrib/profile-night-rainbow1.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   ![Profile views](https://gpvc.arturio.dev/Mar-io20)  
 
