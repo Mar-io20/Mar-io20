@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-🈹 languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js | Firebase </strong>
+🈹 languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js | Firebase | Redux </strong>
 </p>
 
 <p align="left">
