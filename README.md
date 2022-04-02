@@ -11,15 +11,15 @@
 </p>
 
 <p align="left">
-🈹 languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js | Firebase | Redux </strong>
+  languages: <strong> JavaScrip | Typescript | HTML5 | CSS3 | Sass | React | React Native | Node.js | Firebase | Redux </strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Vs Code | Figma | Behance | Notion | Vercel | Discord | Slack | Excel | CodePen | Excalidraw </strong>
+ Tools: <strong>Vs Code | Figma | Behance | Notion | Vercel | Discord | Slack | Excel | CodePen | Excalidraw </strong>
 </p>
 
 <p align="left">
-  💌 contact me: ⤵️
+  💌 contact me:
 </p>
 
 <p align="left">
