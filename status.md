@@ -6,7 +6,7 @@
 
 Recarregue a página se não estiver funcionando
 
-![GitHub metrics](https://metrics.lecoq.io/Mar-io20)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Mar-io20)   -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![](./profile-3d-contrib/profile-rainbow.svg)
