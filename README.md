@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 contact me:
+  💌 My contacts:
 </p>
 
 <p align="left">
