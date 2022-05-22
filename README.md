@@ -1,12 +1,12 @@
-
-<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Mario">
+<div align="right"> 
+<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mario">
+</div>
 <!-- ![](./profile-3d-contrib/profile-night-rainbow1.svg) -->
 
-
-<p align="left"> 
+<div align="left">
+<p> 
   I'm Mario Gabriel. <strong>Full-stack developer</strong> | React Native | JavaScript | Firebase .<br>
  He develops some personal projects, using different languages and tools:
-  
 </p>
 
 <p align="left">
@@ -20,6 +20,7 @@
 <p align="left">
   💌 My contacts:
 </p>
+</div>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mario-gabriel/" alt="Linkedin">
