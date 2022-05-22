@@ -1,6 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Mario">
-
+<img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Mario">
 <!-- ![](./profile-3d-contrib/profile-night-rainbow1.svg) -->
 
 
